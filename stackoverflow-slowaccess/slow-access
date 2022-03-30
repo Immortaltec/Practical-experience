@@ -1,0 +1,7 @@
+The slow opening of stackoverflow is not because stackoverflow is blocked, but because stackoverflow uses google's api, and Google can't use it in China, so it leads to websites like stackoverflow, which have disordered styles, cannot register, cannot log in, and are very slow to open. , can't even open. Therefore, a certain god replaced Google's CDN with the domestic Chinese University of Science and Technology. Specific address: https://github.com/justjavac/ReplaceGoogleCDN.
+
+In addition, for browsers with chrome kernel (such as Sogou browser), you can directly visit https://chrome.google.com/webstore/search/replace-google-cdn?hl=zh-CN, search for replace-google-cdn to install That's it. (need to overturn the wall).
+Or with Firefox, visit https://addons.mozilla.org/en-US/firefox/addon/replace-google-cdn/ to install.
+———————————————
+Copyright statement: This article is an original article by CSDN blogger "Kuiper Kuiper" and follows the CC 4.0 BY-SA copyright agreement. Please attach the original source link and this statement for reprinting.
+Original link: https://blog.csdn.net/u010123949/article/details/79918737
