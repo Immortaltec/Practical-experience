@@ -1,0 +1,29 @@
+searching engine
+百度
+baidu.com
+https://www.baidu.com/#ie={inputEncoding}&wd=%s
+搜狗
+sogou.com
+https://www.sogou.com/web?ie={inputEncoding}&query=%s
+Google（默认）
+google.com
+{google:baseURL}search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
+Bing
+bing.com
+https://www.bing.com/search?q=%s&PC=U316&FORM=CHROMN
+360
+so.com
+https://www.so.com/s?ie={inputEncoding}&q=%s
+其他搜索引擎
+搜索引擎
+关键字
+查询网址
+16pic.com
+16pic.com
+https://www.16pic.com/search/search?type=0&q=%s
+GitHub
+github.com
+https://github.com/search?q=%s&ref=opensearch
+Stack Overflow
+stackoverflow.com
+https://stackoverflow.com/search?q=%s
